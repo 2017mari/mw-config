@@ -5332,6 +5332,7 @@ $wgConf->settings = array(
 		'thedistancewiki' => "//$wmgUploadHostname/thedistancewiki/e/e2/NewWikiLogo.gif",
 		'toftcricketclubwiki' => "//$wmgUploadHostname/toftcricketclubwiki/2/23/ToftLogo.png",
 		'trainwiki' => "//$wmgUploadHostname/trainwiki/c/ce/Cdwk.png",
+		'toswiki' => "//$wmgUploadHostname/tos/m/R7/Toswikilogo.png",
 		'trexwiki' => "//$wmgUploadHostname/trexwiki/4/49/Wikit.png",
 		'trumpwiki' => "//$wmgUploadHostname/trumpwiki/c/c3/Magnifying-logo.jpg",
 		'twswiki' => "//$wmgUploadHostname/twswiki/3/34/Tws-favicon.png",
@@ -5365,6 +5366,7 @@ $wgConf->settings = array(
 		'wisdomwikiwiki' => "//$wmgUploadHostname/wisdomwikiwiki/0/02/WWlogo.png",
 		'wisdomsandboxwiki' => "//$wmgUploadHostname/wisdomsandboxwiki/b/be/Sandbox_Logo.png",
 		'wishwiki' => "//$wmgUploadHostname/wishwiki/c/c6/Tamers_internet.png",
+		
 	),
 
 	// TemplateSandbox
